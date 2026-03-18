@@ -6,6 +6,12 @@ Each release corresponds to a Git tag.
 
 ---
 
+### v2.0.1 — 2026-03-18
+
+Notebooks updated for the MyST-NB gallery migration.
+
+---
+
 ### v2.0.0 — 2026-02-27
 
 #### 🆕 New notebooks
