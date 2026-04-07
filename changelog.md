@@ -6,6 +6,15 @@ Each release corresponds to a Git tag.
 
 ---
 
+### v2.1 — 2026-04-07
+
+#### 🆕 New notebooks
+
+- `ex_roi_extraction.ipynb`  
+  Extraction of region of interest using FCollections.
+
+---
+
 ### v2.0.1 — 2026-03-18
 
 Notebooks updated for the MyST-NB gallery migration.
