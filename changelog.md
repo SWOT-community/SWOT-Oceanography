@@ -6,7 +6,7 @@ Each release corresponds to a Git tag.
 
 ---
 
-### v2.1 — 2026-04-07
+### v2.1.0 — 2026-04-07
 
 #### 🆕 New notebooks
 
