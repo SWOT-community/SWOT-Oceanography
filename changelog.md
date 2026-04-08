@@ -6,6 +6,17 @@ Each release corresponds to a Git tag.
 
 ---
 
+### v2.1.1 — 2026-04-08
+
+#### ✏️ Updated notebooks
+
+- `ex_search_swot.ipynb`  
+  Use of FCollections to retrieve Swot swath geometries.
+- `ex_roi_extraction.ipynb`  
+  Use of FCollections to retrieve Swot swath geometries.
+  
+---
+
 ### v2.1.0 — 2026-04-07
 
 #### 🆕 New notebooks
