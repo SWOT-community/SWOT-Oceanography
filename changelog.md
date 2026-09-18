@@ -4,6 +4,24 @@ This page documents the evolution of the gallery across releases.
 
 Each release corresponds to a Git tag.
 
+
+### v3.0.0 — 2026-09-18
+
+#### 🆕 New notebooks
+
+- `ex_altimetry_search.ipynb`  
+  Altimetry Search tool example to search and select satellite altimetry passes
+
+#### ✏️ Updated notebooks
+
+The following notebooks have been updated with the new Altimetry Downloader Aviso tool version, which allows to download subsets of data, with temporal and geographical selection:
+
+- `ex_aviso_download_swot.ipynb`
+- `ex_roi_extraction.ipynb`
+- `ex_sea_ice_classification.ipynb`
+- `ex_subset_swot_l3_unsmoothed_aviso_tds.ipynb`
+
+
 ---
 
 ### v2.1.1 — 2026-04-08
