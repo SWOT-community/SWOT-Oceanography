@@ -22,6 +22,11 @@ The following notebooks have been updated with the new Altimetry Downloader Avis
 - `ex_subset_swot_l3_unsmoothed_aviso_tds.ipynb`
 
 
+#### 🗑 Removed notebooks
+
+- `ex_search_swot.ipynb`  
+
+
 ---
 
 ### v2.1.1 — 2026-04-08
